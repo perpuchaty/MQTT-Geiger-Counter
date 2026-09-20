@@ -1,0 +1,4 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"TP1","TestPoint_Square","Touch_Pad_16x16",120.000000,-66.000000,0.000000,top
+"TP2","TestPoint_Square","Touch_Pad_16x16",102.500000,-66.000000,0.000000,top
+"TP3","TestPoint_Square","Touch_Pad_16x16",137.500000,-66.000000,0.000000,top
