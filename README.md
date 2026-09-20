@@ -2,6 +2,10 @@
 
 This repository contains the hardware design files for a Geiger counter project.
 
+## 3D Preview
+
+![Geiger counter 3D render](Mainboard/geiger_counter_3d.png)
+
 ## Scope
 
 - Hardware only: KiCad projects, fabrication outputs, and assembly files.
